@@ -2,7 +2,7 @@ name: Selenim ide project
 
 on:
   push:
-    - main
+    branches: -main
 
 jobs:
   build:
