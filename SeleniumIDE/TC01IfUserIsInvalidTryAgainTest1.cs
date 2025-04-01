@@ -92,7 +92,7 @@ public class TC01IfUserIsInvalidTryAgainTest
     }
 
     [Test]
-    public void tC01IfUserIsInvalidTryAgain()
+    public void tC01IfUserIsInvalidTryAgain2()
     {
         // Test name: TC01 - If User Is Invalid Try Again
         // Step # | name | target | value
