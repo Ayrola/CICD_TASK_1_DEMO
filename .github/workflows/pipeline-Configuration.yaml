@@ -1,4 +1,4 @@
-name: Selenim ide project
+name: Selenium ide project
 
 on:
   push:
